@@ -1,0 +1,9 @@
+
+
+java:S2130
+"9Use "Integer.parseInt" for this string-to-int conversion.(ΑΪώ¶όÿÿÿÿ8¦Ωττ1J$873f5677-6baf-4296-8939-e4c2d983354c
+†
+java:S2130">Use "Double.parseDouble" for this string-to-double conversion.(΅•½οϊÿÿÿÿ8§Ωττ1J$3112e099-d8b5-44ea-b8b1-21ea5baaae80
+m	java:S106"+Replace this use of System.out by a logger.(«δ®Φ8¨Ωττ1J$8f54d8c7-6a64-4592-b888-439eb4a0a1c8
+m	java:S106"+Replace this use of System.out by a logger.(Ή›ωώ8©Ωττ1J$0bc15980-874b-406f-85c2-1e3a665e144a
+r	java:S106"+Replace this use of System.out by a logger.(΅ΰΗ€ύÿÿÿÿ8©Ωττ1J$52d91959-f682-46e4-9896-bcee127b1e7b
