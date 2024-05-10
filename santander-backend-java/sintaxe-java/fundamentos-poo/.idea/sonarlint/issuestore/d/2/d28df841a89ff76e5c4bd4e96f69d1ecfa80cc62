@@ -1,0 +1,26 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ë¨ÖÜÿÿÿÿÿ8˜¯Õõ1J$7215d796-d260-4f4f-bb40-f0c139ee7ba5
+l	java:S106"+Replace this use of System.out by a logger.(•¬ª]8™¯Õõ1J$ad4ea37c-d97d-49cc-a13a-2903a26eb71c
+r	java:S106"+Replace this use of System.out by a logger.(°„ñÿÿÿÿÿ8œ¯Õõ1J$0b612b88-7843-4457-8501-abb881183d65
+m	java:S106"+Replace this use of System.out by a logger.(›å¦î8¯Õõ1J$9d849ce9-30ca-42fc-bdb2-5a173367e101
+m	java:S106"+Replace this use of System.out by a logger.(¿ö„ò8¯Õõ1J$acfc4b34-fce6-4b35-b816-f5c401c29103
+m	java:S106!"+Replace this use of System.out by a logger.(¯ûÈ8Ÿ¯Õõ1J$7257b8ee-dfd2-410b-8506-b2089a0267a8
+r	java:S106$"+Replace this use of System.out by a logger.(³û÷ ÿÿÿÿÿ8 ¯Õõ1J$2519cc78-bd84-473a-8fc9-2d972d63b8d3
+r	java:S106'"+Replace this use of System.out by a logger.(ÂÎèİûÿÿÿÿ8¡¯Õõ1J$3678beed-08bd-4271-9957-d6f92fe6ea68
+r	java:S106*"+Replace this use of System.out by a logger.(ëš´øÿÿÿÿ8¢¯Õõ1J$373bcab8-0683-47f9-8729-9ea169f34162
+u
+java:S1144"2Remove this unused private "prepararCombo" method.(Ú·âÒ8ëÇ€Öõ1J$ec15226b-6bdb-43be-8930-c313e27ee923
+‰
+java:S1144"ARemove this unused private "selecionarIngredientesLanche" method.(°öÎÏúÿÿÿÿ8¤ €Öõ1J$2e1ca16e-1e4b-4ea3-9f91-1ca09988f97e
+†
+java:S1144 "CRemove this unused private "selecionarIngredientesVitamina" method.(ÛØ–‹8¤ €Öõ1J$d3404090-8dba-4a07-8e39-3aad35315f38
+y
+java:S1144#"6Remove this unused private "lavarIngredientes" method.(‘³’ˆ8¤ €Öõ1J$726ebee1-aa09-4a2b-b5c8-44ec4da2fec5
+ˆ
+java:S1144&"@Remove this unused private "baterVitaminaLiquidificador" method.(õ«º¶ıÿÿÿÿ8ÑòÿÕõ1J$6a3a10b4-4216-4da4-ab82-d7c87477e646
+…
+java:S1144)"=Remove this unused private "fritarIngredientesLanche" method.(‹ Ñùÿÿÿÿ8˜âÖõ1J$0ca21579-0440-4d5d-84e1-123363499abd
+Y
+java:S1144,"7Remove this unused private "pedirParaTrocarGas" method.(ì©†®ÿÿÿÿÿ8š×ˆÖõ1
+X
+java:S1144/"6Remove this unused private "pedirIngredientes" method.(‹çüïşÿÿÿÿ8š×ˆÖõ1
