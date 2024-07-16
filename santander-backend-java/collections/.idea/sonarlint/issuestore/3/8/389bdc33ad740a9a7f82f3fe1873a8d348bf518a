@@ -1,0 +1,10 @@
+
+‘
+java:S1192V"IDefine a constant instead of duplicating this literal "Tarefa 2" 3 times.(úÉ”¢ûÿÿÿÿ8­Ü²Ñ€2J$e032e81c-9d37-40c2-9101-5c35f4e05d28
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦öð¼ÿÿÿÿÿ8Ö¢“Ñ€2J$0f3d4616-3c87-4054-a57e-88ec92ee2501
+r	java:S106"+Replace this use of System.out by a logger.(¯¶š£üÿÿÿÿ8Ý¢“Ñ€2J$a84ea179-1996-4703-a576-a158e0ec1058
+l	java:S106_"+Replace this use of System.out by a logger.(ÎÓ¹8™œšÑ€2J$856343fb-8d0e-4e88-8b99-dea87a3bcbda
+r	java:S106a"+Replace this use of System.out by a logger.(ÊŸ”„úÿÿÿÿ8ØŸ›Ñ€2J$fd8ee951-7e14-4f46-8653-8c373b1f15b2
+r	java:S106b"+Replace this use of System.out by a logger.(ñ—¨·øÿÿÿÿ8¥˜œÑ€2J$77e61bd7-a575-4b5a-98c0-296535a23b4a
+r	java:S106h"+Replace this use of System.out by a logger.(ÊŸ”„úÿÿÿÿ8´Ø³Ñ€2J$ad196ea3-4725-4de6-8573-97ca31f3b2a3
+r	java:S106i"+Replace this use of System.out by a logger.(ñ—¨·øÿÿÿÿ8´Ø³Ñ€2J$6e420982-0e60-49d1-856f-c7e3630406db

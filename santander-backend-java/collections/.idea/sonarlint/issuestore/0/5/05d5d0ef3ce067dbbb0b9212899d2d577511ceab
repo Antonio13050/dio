@@ -1,0 +1,9 @@
+
+’
+java:S1192/"JDefine a constant instead of duplicating this literal "Palavra 1" 4 times.(Å€²ïÿÿÿÿÿ8‡”ÏÃ€2J$63a224e5-6e84-46ef-bf98-896a87a210bb
+
+java:S4973"<Strings and Boxed types should be compared using "equals()".(çÏ±»8îÔËÃ€2J$ce4cca96-aeb7-43d9-b8c0-d4c1f781e041
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²íéý8ðÔËÃ€2J$2cacf66d-4daa-4964-8547-b737e3746fc0
+l	java:S106)"+Replace this use of System.out by a logger.(ð÷š8âÄÍÃ€2J$d48cee87-9c37-4954-aa35-89cfbbc8b039
+r	java:S1063"+Replace this use of System.out by a logger.(ôˆäÇûÿÿÿÿ8›”ÏÃ€2J$e75af07b-1986-4c72-947f-0dcbb79acd3b
+r	java:S1066"+Replace this use of System.out by a logger.(ôˆäÇûÿÿÿÿ8Ô…ÑÃ€2J$84566335-9235-44b4-bb21-be94c7f18c4d

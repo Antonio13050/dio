@@ -1,0 +1,7 @@
+
+¯
+java:S1488"gImmediately return this expression instead of assigning it to the temporary variable "produtosPorNome".(·Ö®¡ûÿÿÿÿ8Ï••ù€2J$be3d14b6-54df-40e5-af93-d50bbaeace20
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óô¾Øýÿÿÿÿ8Ö••ù€2J$ba59be47-8637-485a-baeb-48d344e3c074
+m	java:S106&"+Replace this use of System.out by a logger.(Á÷ÜÔ8¤›˜ù€2J$1ea1d7c8-3597-4874-8c2a-6ed03dcb6a21
+m	java:S106("+Replace this use of System.out by a logger.(¹´Í—8Œý¢ù€2J$9d2c77e3-b714-4aa5-a302-9b04df6f28df
+r	java:S106)"+Replace this use of System.out by a logger.(‘Ô®ïþÿÿÿÿ8¶ž£ù€2J$fbfbc22d-9340-434f-8d7c-eb19a056274e
